@@ -1,2 +1,2 @@
 # Friday
-this is my first Git 
+this is my first Git hub
