@@ -1,4 +1,2 @@
 # Friday
-this is my first Git hub
-<br>
-I am Iron man
+This is my frist one 
